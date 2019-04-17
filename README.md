@@ -8,6 +8,9 @@ The goal is to create a split ortholinear keyboard that:
   - Looks amazing
   - Only has the most important keys and keeps everything else in layers
 
+### Design
+currently no design
+
 ### Todo List
 See [milestones](https://github.com/MrSnowMonster/PRKBD/milestones) for a complete list
 
