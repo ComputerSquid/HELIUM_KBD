@@ -12,7 +12,7 @@ The goal is to create a split ortholinear keyboard that:
 This design is currently very "dirty".
 ![N](https://raw.githubusercontent.com/MrSnowMonster/PRKBD/master/hmmmdesign.png)
 ![N](https://raw.githubusercontent.com/MrSnowMonster/PRKBD/master/hmmexplained.png)
-- 1: Usb C connector
+- 1: Elite-C / Usb C connector
 - 2: Visible diodes
 - 3: OLED Screen
 - 4: TRRS connector to connect split keyboards
