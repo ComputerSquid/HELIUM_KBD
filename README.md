@@ -1,7 +1,7 @@
 # Pulpit Rock Keyboard (PRKBD)
 [![](https://img.shields.io/github/last-commit/MrSnowMonster/PRKBD.svg)](https://github.com/MrSnowMonster/PRKBD/commits/master) [![](https://img.shields.io/github/issues-raw/MrSnowMonster/PRKBD.svg)](https://github.com/MrSnowMonster/PRKBD/issues) [![](https://img.shields.io/github/issues-pr/MrSnowMonster/PRKBD.svg)](https://github.com/MrSnowMonster/PRKBD/pulls) [![](https://img.shields.io/github/contributors/MrSnowMonster/PRKBD.svg)](https://github.com/MrSnowMonster/PRKBD/graphs/contributors) ![](https://img.shields.io/github/repo-size/MrSnowMonster/PRKBD.svg) [![](https://img.shields.io/github/license/MrSnowMonster/PRKBD.svg)](https://github.com/MrSnowMonster/PRKBD/blob/master/LICENSE)
 
-Pulpit Rock Keyboard is a project to combine the parts I like the best on the [Plaid keyboard](https://github.com/hsgw/plaid) and the [Corne keyboard](https://github.com/foostan/crkbd), to create something new which both feels and looks good. The keyboard gets it's name from the [Preacher’s Chair](https://en.wikipedia.org/wiki/Preikestolen) which is located in Norway, because split keyboards remind me of fjords and Preacher’s Chair is one of the most beautiful places I know of.
+Pulpit Rock Keyboard is a project to combine the parts I like the best on the [Corne keyboard](https://github.com/foostan/crkbd), with hole through components and other stuff I felt was missing to create something new which both feels and looks good. Why hide circuits, when they can be used to make something look even better? The keyboard gets it's name from the [Preacher’s Chair](https://en.wikipedia.org/wiki/Preikestolen) which is located in Norway, because I could not come up with anything more fitting.
 
 The goal is to create a split ortholinear keyboard that:
   - Feels comfortable
@@ -9,7 +9,13 @@ The goal is to create a split ortholinear keyboard that:
   - Only has the most important keys and keeps everything else in layers
 
 ### Design
-currently no design
+This design is currently very "dirty".
+[![N](https://raw.githubusercontent.com/MrSnowMonster/PRKBD/master/hmmmdesign.png)]
+[![N](https://raw.githubusercontent.com/MrSnowMonster/PRKBD/master/hmmexplained.png)]
+- 1: Usb C connector
+- 2: Visible diodes
+- 3: OLED Screen
+- 4: TRRS connector to connect split keyboards
 
 ### Todo List
 See [milestones](https://github.com/MrSnowMonster/PRKBD/milestones) for a complete list
