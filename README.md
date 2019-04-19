@@ -10,8 +10,8 @@ The goal is to create a split ortholinear keyboard that:
 
 ### Design
 This design is currently very "dirty".
-[![N](https://raw.githubusercontent.com/MrSnowMonster/PRKBD/master/hmmmdesign.png)]
-[![N](https://raw.githubusercontent.com/MrSnowMonster/PRKBD/master/hmmexplained.png)]
+![N](https://raw.githubusercontent.com/MrSnowMonster/PRKBD/master/hmmmdesign.png)
+![N](https://raw.githubusercontent.com/MrSnowMonster/PRKBD/master/hmmexplained.png)
 - 1: Usb C connector
 - 2: Visible diodes
 - 3: OLED Screen
