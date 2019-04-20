@@ -3,7 +3,7 @@
 
 Pulpit Rock Keyboard is a project to combine the parts I like the best on the [Corne keyboard](https://github.com/foostan/crkbd), with hole through components and other stuff I felt was missing to create something new which both feels and looks good. Why hide circuits, when they can be used to make something look even better? The keyboard gets it's name from the [Preacher’s Chair](https://en.wikipedia.org/wiki/Preikestolen) which is located in Norway, because I could not come up with anything more fitting.
 
-The goal is to create a split ortholinear keyboard that:
+The goal is to create a split collumstaggered keyboard that:
   - Feels comfortable
   - Looks amazing
   - Only has the most important keys and keeps everything else in layers
