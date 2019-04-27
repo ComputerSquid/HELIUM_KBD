@@ -40,7 +40,7 @@ This project are made with and depends on:
 | KiCad | KiCad is used to design the pcb | [Home page](http://kicad-pcb.org/) |
 | QMK | Used to program the keyboard | [Home page](https://docs.qmk.fm) |
     
-[![N](https://raw.githubusercontent.com/MrSnowMonster/PRKBD/PULPIT_KBD/powered_by_qmk.png)](https://docs.qmk.fm)
+[![N](https://raw.githubusercontent.com/MrSnowMonster/PULPIT_KBD/powered_by_qmk.png)](https://docs.qmk.fm)
 
 License
 ----
