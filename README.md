@@ -45,7 +45,7 @@ This project are made with and depends on:
 License
 ----
 
-[GNU General Public License v3.0](https://github.com/MrSnowMonster/PRKBD/blob/master/LICENSE)
+[GNU General Public License v3.0](https://github.com/MrSnowMonster/PKBD/blob/master/LICENSE)
 
 
 **Open source? Hell Yeah!**
