@@ -1,7 +1,7 @@
 # Pulpit Rock Keyboard (PRKBD)
-[![](https://img.shields.io/github/last-commit/MrSnowMonster/PRKBD.svg)](https://github.com/MrSnowMonster/PRKBD/commits/master) [![](https://img.shields.io/github/issues-raw/MrSnowMonster/PRKBD.svg)](https://github.com/MrSnowMonster/PRKBD/issues) [![](https://img.shields.io/github/issues-pr/MrSnowMonster/PRKBD.svg)](https://github.com/MrSnowMonster/PRKBD/pulls) [![](https://img.shields.io/github/contributors/MrSnowMonster/PRKBD.svg)](https://github.com/MrSnowMonster/PRKBD/graphs/contributors) ![](https://img.shields.io/github/repo-size/MrSnowMonster/PRKBD.svg) [![](https://img.shields.io/github/license/MrSnowMonster/PRKBD.svg)](https://github.com/MrSnowMonster/PRKBD/blob/master/LICENSE)
+[![](https://img.shields.io/github/last-commit/MrSnowMonster/PKBD.svg)](https://github.com/MrSnowMonster/PKBD/commits/master) [![](https://img.shields.io/github/issues-raw/MrSnowMonster/PKBD.svg)](https://github.com/MrSnowMonster/PKBD/issues) [![](https://img.shields.io/github/issues-pr/MrSnowMonster/PKBD.svg)](https://github.com/MrSnowMonster/PKBD/pulls) [![](https://img.shields.io/github/contributors/MrSnowMonster/PKBD.svg)](https://github.com/MrSnowMonster/PKBD/graphs/contributors) ![](https://img.shields.io/github/repo-size/MrSnowMonster/PKBD.svg) [![](https://img.shields.io/github/license/MrSnowMonster/PKBD.svg)](https://github.com/MrSnowMonster/PKBD/blob/master/LICENSE)
 
-Pulpit Rock Keyboard is a project to combine the parts I like the best on the [Corne keyboard](https://github.com/foostan/crkbd), with hole through components and other stuff I felt was missing to create something new which both feels and looks good. Why hide circuits, when they can be used to make something look even better? The keyboard gets it's name from the [Preacher’s Chair](https://en.wikipedia.org/wiki/Preikestolen) which is located in Norway, because I could not come up with anything more fitting.
+Pulpit Keyboard is a project to combine the parts I like the best on the [Corne keyboard](https://github.com/foostan/crkbd), with hole through components and other stuff I felt was missing to create something new which both feels and looks good. Why hide circuits, when they can be used to make something look even better? The keyboard gets it's name from the [Preacher’s Chair](https://en.wikipedia.org/wiki/Preikestolen) which is located in Norway, but the name is shorted down to just Pulpit.
 
 The goal is to create a split collumstaggered keyboard that:
   - Feels comfortable
@@ -10,8 +10,8 @@ The goal is to create a split collumstaggered keyboard that:
 
 ### Design
 This design is currently very "dirty".
-![N](https://raw.githubusercontent.com/MrSnowMonster/PRKBD/master/hmmmdesign.png)
-![N](https://raw.githubusercontent.com/MrSnowMonster/PRKBD/master/hmmexplained.png)
+![N](https://raw.githubusercontent.com/MrSnowMonster/PKBD/master/hmmmdesign.png)
+![N](https://raw.githubusercontent.com/MrSnowMonster/PKBD/master/hmmexplained.png)
 - 1: Elite-C / Usb C connector
 - 2: Visible diodes
 - 3: OLED Screen
