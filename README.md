@@ -9,13 +9,8 @@ The goal is to create a split collumstaggered keyboard that:
   - Only has the most important keys and keeps everything else in layers
 
 ### Design
-This design is currently very "dirty".
-![N](https://raw.githubusercontent.com/MrSnowMonster/PULPIT_KBD/master/hmmmdesign.png)
-![N](https://raw.githubusercontent.com/MrSnowMonster/PULPIT_KBD/master/hmmexplained.png)
-- 1: Elite-C / Usb C connector
-- 2: Visible diodes
-- 3: OLED Screen
-- 4: TRRS connector to connect split keyboards
+![N](https://raw.githubusercontent.com/MrSnowMonster/PULPIT_KBD/master/pictures/showoff.png)
+![N](https://raw.githubusercontent.com/MrSnowMonster/PULPIT_KBD/master/pictures/hmmmdesign.png)
 
 ### Todo List
 See [milestones](https://github.com/MrSnowMonster/PULPIT_KBD/milestones) for a complete list
