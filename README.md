@@ -9,7 +9,7 @@ The goal is to create a split collumstaggered keyboard that:
 
 ### Design
 ![N](https://raw.githubusercontent.com/MrSnowMonster/HELIUM_KBD/master/pictures/showoff.png)
-![N](https://raw.githubusercontent.com/MrSnowMonster/HELIUM_KBD/master/pictures/hmmmdesign.png)
+![N](https://raw.githubusercontent.com/MrSnowMonster/HELIUM_KBD/master/pictures/thumbnail3.png)
 
 ### Todo List
 See [milestones](https://github.com/MrSnowMonster/HELIUM_KBD/milestones) for a complete list
@@ -30,7 +30,7 @@ This project are made with and depends on:
 | ------ | ------ | ------ |
 | KiCad | KiCad is used to design the pcb | [Home page](http://kicad-pcb.org/) |
 | QMK | Used to program the keyboard | [Home page](https://docs.qmk.fm/) |
-    
+
 [![N](https://raw.githubusercontent.com/MrSnowMonster/HELIUM_KBD/master/pictures/powered_by_qmk.png)](https://docs.qmk.fm)
 
 License
@@ -40,5 +40,3 @@ License
 
 
 **Open source? Hell Yeah!**
-
-
