@@ -15,7 +15,7 @@ The goal is to create a split collumstaggered keyboard that:
 See [milestones](https://github.com/MrSnowMonster/HELIUM_KBD/milestones) for a complete list
 
 ### Contribution
-Want to contribute? Great! I want all the help I can get and all help is appreciated! Check the todo list above to see what I need help with! :D If you want to reach me you can shoot me a message on Discord. My username is: aknemis#9202 :)
+Want to contribute? Great! I want all the help I can get and all help is appreciated! Check the todo list above to see what I need help with!
 
 
 ### Setting up the keyboard
