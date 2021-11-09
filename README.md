@@ -28,7 +28,7 @@ This project are made with and depends on:
 
 | Name | Description | Link |
 | ------ | ------ | ------ |
-| KiCad | KiCad is used to design the pcb | [Home page](http://kicad-pcb.org/) |
+| KiCad | KiCad is used to design the pcb | [Home page](http://kicad.org/) |
 | QMK | Used to program the keyboard | [Home page](https://docs.qmk.fm/) |
 
 [![N](https://raw.githubusercontent.com/MrSnowMonster/HELIUM_KBD/master/pictures/powered_by_qmk.png)](https://docs.qmk.fm)
